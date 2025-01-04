@@ -1,0 +1,3 @@
+Info (10281): Verilog HDL Declaration information at tubesapsisdig.v(4): object "red" differs only in case from object "RED" in the same scope File: D:/file code/quartus prime/tubes appsisdig/tubesapsisdig.v Line: 4
+Info (10281): Verilog HDL Declaration information at tubesapsisdig.v(7): object "green" differs only in case from object "GREEN" in the same scope File: D:/file code/quartus prime/tubes appsisdig/tubesapsisdig.v Line: 7
+Info (10281): Verilog HDL Declaration information at tubesapsisdig.v(5): object "yellow" differs only in case from object "YELLOW" in the same scope File: D:/file code/quartus prime/tubes appsisdig/tubesapsisdig.v Line: 5

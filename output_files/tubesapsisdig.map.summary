@@ -1,0 +1,17 @@
+Analysis & Synthesis Status : Successful - Sat Jan  4 11:51:57 2025
+Quartus Prime Version : 23.1std.1 Build 993 05/14/2024 SC Lite Edition
+Revision Name : tubesapsisdig
+Top-level Entity Name : tubesapsisdig
+Family : Cyclone V
+Logic utilization (in ALMs) : N/A
+Total registers : 36
+Total pins : 5
+Total virtual pins : 0
+Total block memory bits : 0
+Total DSP Blocks : 0
+Total HSSI RX PCSs : 0
+Total HSSI PMA RX Deserializers : 0
+Total HSSI TX PCSs : 0
+Total HSSI PMA TX Serializers : 0
+Total PLLs : 0
+Total DLLs : 0

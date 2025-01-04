@@ -1,0 +1,6 @@
+
+State Machine - |tubesapsisdig|current_state
+Name current_state.RED current_state.YELLOW current_state.GREEN 
+current_state.RED 0 0 0 
+current_state.GREEN 1 0 1 
+current_state.YELLOW 1 1 0 
