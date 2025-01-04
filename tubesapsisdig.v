@@ -14,7 +14,7 @@ module tubesapsisdig (
     reg [1:0] current_state, next_state;
 
     // Clock divider for 1 Hz (1 second) pulse
-    reg [15:0] clk_divider;  // Adjust bit width based on input clock frequency
+    reg [20:0] clk_divider;  // Adjust bit width based on input clock frequency
     reg one_sec_pulse;
 
     always @(posedge clk or posedge reset) begin
